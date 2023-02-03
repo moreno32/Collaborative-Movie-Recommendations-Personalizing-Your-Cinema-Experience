@@ -7,7 +7,7 @@ This project aims to develop a movie recommendation system based on collaborativ
 ![Category and Subcategory](https://img.shields.io/badge/Recommender%20System-Recommendations%20based%20on%20collaborative%20filters-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/Collaborative-Movie-Recommendations-1.png" width="700" height="526" /><br>
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/Collaborative-Movie-Recommendations-1.png" width="700" height="394" /><br>
 
 <img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/ollaborative-Movie-Recommendations-2.png" width="700" height="526" /><br>
 
