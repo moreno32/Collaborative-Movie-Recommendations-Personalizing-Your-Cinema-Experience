@@ -1,52 +1,54 @@
-# Zombie Detection using Object Detection API
+# Collaborative Movie Recommendations: Personalizing Your Cinema Experience
 
 ## 🔄 Overview:
-This project aims to develop a real-time zombie detection system using the Object Detection API and RetinaNet, a state-of-the-art object detection model. The model will be trained using a small dataset of just 5 zombie images, and fine-tuned to improve its performance. The system will be able to detect zombies in images and videos and will provide visual output of the detected zombies.
+This project aims to develop a movie recommendation system based on collaborative filtering techniques. The system will make personalized suggestions to users based on their past viewing behavior and preferences. The project will be implemented using Python and the Pandas library. In addition to that, data visualization techniques using Matplotlib and Seaborn will be utilized to better understand the data and the results of the recommendation system.
 
-![Category and Subcategory](https://img.shields.io/badge/CV%20Computer%20Vision-Clasification%20&%20Detection-blue)
-![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-DCN%20Deep%20Convulutional%20Network-yellow)
+![Category and Subcategory](https://img.shields.io/badge/RS%20Recommender%20Systemn-Recommendations%20based%20on%20collaborative%20filters-blue)
+![Category and Subcategory](https://img.shields.io/badge/Recommender%20System-Recommendations%20based%20on%20collaborative%20filters-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Zombie-Detection-using-Object-Detection-API/master/reports/figures/Zombie%20Detection%20using%20Object%20Detection%20API.jpg" width="700" height="526" /><br>
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/Collaborative-Movie-Recommendations-1.png" width="700" height="526" /><br>
+
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/ollaborative-Movie-Recommendations-2.png" width="700" height="526" /><br>
 
 ## 🎊 Motivation:
-With the increasing popularity of zombies in popular culture, there is a growing interest in developing systems to detect them. This project aims to contribute to this field by developing a real-time zombies detection system that can be used for various applications such as video games, movies, and theme parks.
+Movie recommendations have become an integral part of the online movie-watching experience. From online streaming platforms to movie databases, users are bombarded with suggestions on what to watch next. However, traditional recommendation methods such as content-based filtering can be limiting and might not capture the complexity of a user's tastes and preferences. Collaborative filtering provides a way to address these limitations by incorporating the preferences of multiple users to make recommendations.
 
 ## 🏁 Learning Objectives:
-1) Understand the basic concepts and techniques of object detection
-2) Learn how to use the TensorFlow Object Detection API and RetinaNet model
-3) Gain experience in training and fine-tuning object detection models
-4) Learn how to evaluate the performance of object detection models
-
-## ⚙️ Technical Aspects:
-The project will use the Object Detection API and RetinaNet, a state-of-the-art object detection model. The model will be trained using a small dataset of just 5 zombies images and fine-tuned to improve its performance. The system will be able to detect zombies in images and videos, and will provide visual output of the detected zombies.
+1)	Acquiring and preprocessing movie dataset
+2)	Understanding and implementing collaborative filtering techniques
+3)	Evaluating the effectiveness of the recommendation system
+4)	Exploring the advantages and disadvantages of collaborative filtering
 
 ## 🧰 Technology used:
 The project will use the Object Detection API, RetinaNet, matplotlib, os, random, zipfile, io, scipy, numpy, glob, imageio, six, PIL, Ipython, and tensorflow.
 
 ## 📚 Data Source:
-The project will use a small dataset of just 5 zombies images for training.
+The movie dataset used in this project is from an external source, available as a .zip file.
 
 ## 🗂️ Project Structure:
 The project will consist of the following stages.
-1) Import Object Detection API packages.
-2) Data Preparation & Cleaning.
-3) Visualize the training images.
-4) Modeling.
-5) Model Evaluation.
-6) View and save results.
+1)	Acquiring the movie dataset
+2)	Preprocessing the data
+3)	Implementing collaborative filtering techniques
+4)	Evaluating the effectiveness of the recommendation system
+5)	Exploring the advantages and disadvantages of collaborative filtering
 
 ## 👥 Credits:
-The Object Detection API and RetinaNet model were developed by the TensorFlow team. The project structure and implementation is inspired by the TensorFlow Object Detection API tutorial.
+The movie dataset used in this project is from an external source and credit goes to the creators of the dataset.
 
 ## 🔗 Links:
-**Github repository** - https://github.com/moreno32/Zombie-Detection-using-Object-Detection-API
+**Pandas library** - https://pandas.pydata.org/
 
-**TensorFlow Object Detection API** - https://github.com/tensorflow/models/tree/main/research/object_detection
+**Matplotlib library** - https://matplotlib.org/
 
-**RetinaNet** - https://github.com/fizyr/keras-retinanet
+**Numpy library** - https://numpy.org/
 
-**Link to Repository**: https://github.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset
+**Seaborn library** - https://seaborn.pydata.org/
+
+**Scikit-learn library** - https://scikit-learn.org/stable/
+
+**Link to Repository**: https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git
 
 ## 🙋‍♂️ Contact me:
 <a href= mailto:danielmoreno3291@gmail.com> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" >
