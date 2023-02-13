@@ -7,9 +7,9 @@ This project aims to develop a movie recommendation system based on collaborativ
 ![Category and Subcategory](https://img.shields.io/badge/Recommender%20System-Recommendations%20based%20on%20collaborative%20filters-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/Collaborative-Movie-Recommendations-1.png" width="700" height="394" /><br>
+<img src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/Collaborative-Movie-Recommendations-1.png?token=GHSAT0AAAAAAB3PXF5PIYE4EQ2JUH436AHMY7J2VKA" alt="banner that says Daniel Moreno">
 
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/ollaborative-Movie-Recommendations-2.png" width="700" height="526" /><br>
+<img src="https://raw.githubusercontent.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience/master/reports/figures/ollaborative-Movie-Recommendations-2.png?token=GHSAT0AAAAAAB3PXF5PIYE4EQ2JUH436AHMY7J2VKA" alt="banner that says Daniel Moreno">
 
 ## 🎊 Motivation:
 Movie recommendations have become an integral part of the online movie-watching experience. From online streaming platforms to movie databases, users are bombarded with suggestions on what to watch next. However, traditional recommendation methods such as content-based filtering can be limiting and might not capture the complexity of a user's tastes and preferences. Collaborative filtering provides a way to address these limitations by incorporating the preferences of multiple users to make recommendations.
@@ -51,8 +51,8 @@ The movie dataset used in this project is from an external source and credit goe
 **Link to Repository**: https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git
 
 ## 🙋‍♂️ Contact me:
-<a href= mailto:danielmoreno3291@gmail.com> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" >
-<a href="https://www.linkedin.com/in/dmoreno-ai/"> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-<a href="https://www.youtube.com/@dmoreno-ai"> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/2048px-YouTube_social_white_squircle.svg.png" /><br>
+<a href= mailto:danielmoreno3291@gmail.com> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/mail.png" >
+<a href="https://www.linkedin.com/in/dmoreno-ai/"> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/linkedin.svg">
+<a href="https://www.youtube.com/@dmoreno-ai"> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/youtube.png" /><br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dmoreno_ai)
